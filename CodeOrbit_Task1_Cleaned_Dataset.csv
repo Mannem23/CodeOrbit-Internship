@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,City,Category,Product,Order_Date,Quantity,Sales_Amount,Payment_Method,Order_Status
+Ord1001,Kavya,Chennai,Electronics,Laptop,05-02-2026,3,165000,Upi,Cancelled
+Ord1002,Aarav,Vijayawada,Electronics,Mouse,25-02-2026,1,700,Credit Card,Cancelled
+Ord1003,Arjun,Kolkata,Groceries,Rice,18-04-2026,5,3500,Credit Card,Pending
+Ord1004,Sneha,Mumbai,Groceries,Biscuits,29-03-2026,1,120,Debit Card,Delivered
+Ord1005,Rahul,Mumbai,Furniture,Bookshelf,25-01-2026,1,5000,Debit Card,Delivered
+Ord1006,Sanjay,Kolkata,Groceries,Biscuits,01-02-2026,1,120,Cash,Delivered
+Ord1007,Meera,Visakhapatnam,Groceries,Biscuits,19-02-2026,5,600,Upi,Delivered
+Ord1008,Kavya,Vijayawada,Furniture,Bookshelf,08-04-2026,1,5000,Debit Card,Pending
+Ord1009,Meera,Chennai,Clothing,Jeans,21-06-2026,3,5400,Debit Card,Delivered
+Ord1010,Kavya,Hyderabad,Groceries,Coffee,29-04-2026,5,2250,Cash,Delivered
+Ord1011,Ananya,Chennai,Groceries,Coffee,09-01-2026,3,1350,Debit Card,Pending
+Ord1012,Nikhil,Pune,Clothing,T-Shirt,24-02-2026,2,1800,Cash,Pending
+Ord1013,Vikram,Chennai,Books,Textbook,24-05-2026,3,2700,Net Banking,Delivered
+Ord1014,Kiran,Pune,Groceries,Cooking Oil,26-02-2026,5,900,Credit Card,Cancelled
+Ord1015,Priya,Hyderabad,Books,Novel,10-06-2026,1,500,Credit Card,Pending
+Ord1016,Kiran,Visakhapatnam,Groceries,Rice,30-04-2026,4,2800,Net Banking,Delivered
+Ord1017,Ishita,Bengaluru,Groceries,Rice,14-06-2026,1,700,Debit Card,Delivered
+Ord1018,Sanjay,Guntur,Clothing,Shoes,09-03-2026,2,5000,Net Banking,Delivered
+Ord1019,Varun,Visakhapatnam,Groceries,Rice,20-02-2026,3,2100,Credit Card,Delivered
+Ord1020,Aditya,Delhi,Furniture,Chair,05-01-2026,5,17500,Upi,Delivered
+Ord1021,Kavya,Visakhapatnam,Clothing,Jeans,21-01-2026,1,1800,Upi,Pending
+Ord1022,Neha,Kolkata,Electronics,Headphones,12-02-2026,2,5000,Debit Card,Cancelled
+Ord1023,Ishita,Chennai,Groceries,Cooking Oil,21-03-2026,2,360,Cash,Delivered
+Ord1024,Kavya,Chennai,Books,Comics,17-01-2026,1,300,Debit Card,Delivered
+Ord1025,Kavya,Guntur,Groceries,Coffee,19-01-2026,5,2250,Upi,Delivered
+Ord1026,Rahul,Kolkata,Electronics,Laptop,02-03-2026,3,165000,Debit Card,Pending
+Ord1027,Nikhil,Delhi,Furniture,Desk,04-03-2026,5,35000,Cash,Pending
+Ord1028,Pooja,Pune,Furniture,Chair,19-04-2026,1,3500,Unknown,Pending
+Ord1029,Kiran,Pune,Electronics,Laptop,28-01-2026,1,55000,Credit Card,Delivered
+Ord1030,Pooja,Hyderabad,Furniture,Table,13-03-2026,2,12000,Cash,Delivered
+Ord1031,Priya,Guntur,Electronics,Mouse,16-06-2026,5,3500,Net Banking,Delivered
+Ord1032,Pooja,Delhi,Electronics,Headphones,04-05-2026,2,5000,Credit Card,Pending
+Ord1033,Aarav,Mumbai,Electronics,Headphones,09-03-2026,4,10000,Cash,Delivered
+Ord1034,Arjun,Bengaluru,Books,Comics,25-02-2026,2,600,Upi,Cancelled
+Ord1035,Ananya,Guntur,Groceries,Rice,30-05-2026,3,2100,Cash,Cancelled
+Ord1036,Varun,Vijayawada,Groceries,Coffee,17-02-2026,1,450,Upi,Cancelled
+Ord1037,Priya,Visakhapatnam,Electronics,Headphones,05-03-2026,4,10000,Net Banking,Cancelled
+Ord1038,Nikhil,Visakhapatnam,Electronics,Laptop,14-05-2026,4,220000,Debit Card,Delivered
+Ord1039,Rohan,Mumbai,Furniture,Bookshelf,03-02-2026,2,10000,Debit Card,Pending
+Ord1040,Sanjay,Visakhapatnam,Clothing,T-Shirt,25-05-2026,1,900,Upi,Delivered
+Ord1041,Rohan,Hyderabad,Groceries,Coffee,31-03-2026,5,2250,Upi,Delivered
+Ord1042,Sanjay,Kolkata,Clothing,Jacket,30-06-2026,2,6400,Debit Card,Cancelled
+Ord1043,Divya,Vijayawada,Groceries,Rice,04-02-2026,5,3500,Debit Card,Delivered
+Ord1044,Divya,Visakhapatnam,Electronics,Headphones,23-02-2026,3,7500,Debit Card,Delivered
+Ord1045,Ananya,Vijayawada,Clothing,Shoes,12-06-2026,3,7500,Cash,Delivered
+Ord1046,Vikram,Bengaluru,Electronics,Laptop,11-02-2026,3,165000,Cash,Cancelled
+Ord1047,Rahul,Hyderabad,Books,Novel,20-05-2026,1,500,Upi,Delivered
+Ord1048,Vikram,Guntur,Groceries,Coffee,20-03-2026,4,1800,Debit Card,Delivered
+Ord1049,Priya,Pune,Clothing,Jeans,24-05-2026,2,3600,Cash,Cancelled
+Ord1050,Sneha,Mumbai,Furniture,Desk,07-01-2026,2,14000,Credit Card,Delivered
+Ord1051,Sneha,Vijayawada,Books,Textbook,08-04-2026,3,2700,Upi,Pending
+Ord1052,Meera,Bengaluru,Furniture,Desk,28-02-2026,4,28000,Credit Card,Delivered
+Ord1053,Rohan,Vijayawada,Furniture,Table,13-03-2026,3,18000,Debit Card,Cancelled
+Ord1054,Priya,Bengaluru,Books,Notebook,15-02-2026,1,150,Net Banking,Delivered
+Ord1055,Pooja,Pune,Electronics,Laptop,22-03-2026,5,275000,Cash,Cancelled
+Ord1056,Nikhil,Chennai,Groceries,Rice,07-03-2026,4,2800,Upi,Pending
+Ord1057,Pooja,Vijayawada,Electronics,Headphones,20-06-2026,3,7500,Debit Card,Cancelled
+Ord1058,Varun,Bengaluru,Clothing,T-Shirt,20-06-2026,3,2700,Cash,Delivered
+Ord1059,Vikram,Chennai,Books,Notebook,18-04-2026,5,750,Cash,Delivered
+Ord1060,Ishita,Guntur,Groceries,Biscuits,19-03-2026,4,480,Debit Card,Delivered
+Ord1061,Sanjay,Delhi,Books,Notebook,22-06-2026,4,600,Credit Card,Cancelled
+Ord1062,Divya,Kolkata,Books,Textbook,19-06-2026,1,900,Net Banking,Delivered
+Ord1063,Kavya,Chennai,Electronics,Headphones,07-02-2026,3,7500,Upi,Delivered
+Ord1064,Rahul,Delhi,Furniture,Table,17-04-2026,5,30000,Net Banking,Delivered
+Ord1065,Kavya,Hyderabad,Books,Comics,17-06-2026,4,1200,Upi,Delivered
+Ord1066,Varun,Delhi,Books,Textbook,13-01-2026,2,1800,Net Banking,Delivered
+Ord1067,Sanjay,Unknown,Electronics,Mouse,24-05-2026,2,1400,Net Banking,Delivered
+Ord1068,Sanjay,Hyderabad,Books,Comics,02-05-2026,5,1500,Cash,Delivered
+Ord1069,Neha,Chennai,Furniture,Bookshelf,12-03-2026,5,25000,Cash,Delivered
+Ord1070,Aditya,Pune,Clothing,Jeans,19-05-2026,3,5400,Upi,Delivered
+Ord1071,Vikram,Chennai,Furniture,Desk,17-01-2026,4,28000,Cash,Pending
+Ord1072,Ananya,Chennai,Clothing,Shoes,18-04-2026,4,10000,Cash,Cancelled
+Ord1073,Aarav,Pune,Electronics,Mouse,18-03-2026,4,2800,Cash,Pending
+Ord1074,Unknown,Bengaluru,Groceries,Coffee,22-04-2026,4,1800,Cash,Delivered
+Ord1075,Sneha,Delhi,Books,Notebook,02-02-2026,4,600,Net Banking,Cancelled
+Ord1076,Nikhil,Guntur,Electronics,Mouse,22-01-2026,5,3500,Cash,Delivered
+Ord1077,Rohan,Mumbai,Books,Textbook,25-03-2026,1,900,Credit Card,Pending
+Ord1078,Rohan,Mumbai,Clothing,Jacket,06-03-2026,4,12800,Upi,Pending
+Ord1079,Kavya,Vijayawada,Electronics,Laptop,16-06-2026,3,165000,Upi,Delivered
+Ord1080,Aisha,Hyderabad,Furniture,Desk,03-03-2026,1,7000,Credit Card,Pending
+Ord1081,Rohan,Pune,Electronics,Headphones,12-02-2026,4,10000,Net Banking,Cancelled
+Ord1082,Priya,Visakhapatnam,Electronics,Headphones,07-01-2026,3,7500,Debit Card,Cancelled
+Ord1083,Rahul,Visakhapatnam,Books,Comics,26-06-2026,2,3500,Credit Card,Delivered
+Ord1084,Ananya,Pune,Clothing,T-Shirt,17-05-2026,5,4500,Cash,Delivered
+Ord1085,Pooja,Delhi,Electronics,Keyboard,28-01-2026,1,1200,Cash,Delivered
+Ord1086,Sneha,Kolkata,Books,Textbook,16-06-2026,4,3600,Debit Card,Cancelled
+Ord1087,Pooja,Visakhapatnam,Groceries,Cooking Oil,10-03-2026,4,720,Debit Card,Delivered
+Ord1088,Kavya,Delhi,Electronics,Keyboard,26-05-2026,4,4800,Net Banking,Pending
+Ord1089,Aditya,Hyderabad,Clothing,T-Shirt,05-05-2026,4,3600,Credit Card,Delivered
+Ord1090,Aisha,Bengaluru,Clothing,Jacket,23-05-2026,3,9600,Upi,Cancelled
+Ord1091,Pooja,Delhi,Furniture,Chair,23-05-2026,2,7000,Credit Card,Pending
+Ord1092,Rahul,Bengaluru,Books,Comics,26-02-2026,1,300,Cash,Delivered
+Ord1093,Ishita,Kolkata,Clothing,Jacket,30-03-2026,4,12800,Cash,Cancelled
+Ord1094,Rohan,Bengaluru,Clothing,Jacket,06-03-2026,4,12800,Credit Card,Delivered
+Ord1095,Ishita,Hyderabad,Furniture,Bookshelf,19-02-2026,1,5000,Credit Card,Pending
+Ord1096,Arjun,Bengaluru,Clothing,Jacket,28-02-2026,1,3200,Debit Card,Delivered
+Ord1097,Vikram,Bengaluru,Clothing,T-Shirt,12-01-2026,5,4500,Upi,Cancelled
+Ord1098,Priya,Guntur,Clothing,Jeans,27-05-2026,4,7200,Debit Card,Pending
+Ord1099,Sneha,Guntur,Books,Comics,06-03-2026,3,900,Cash,Delivered
+Ord1100,Rahul,Visakhapatnam,Electronics,Mouse,11-06-2026,4,2800,Upi,Delivered
+Ord1101,Kavya,Vijayawada,Furniture,Bookshelf,23-05-2026,1,5000,Cash,Cancelled
+Ord1102,Kiran,Delhi,Groceries,Coffee,24-04-2026,5,2250,Debit Card,Cancelled
+Ord1103,Aisha,Guntur,Books,Notebook,06-06-2026,5,750,Upi,Delivered
+Ord1104,Sneha,Chennai,Furniture,Bookshelf,14-02-2026,1,5000,Net Banking,Delivered
+Ord1105,Unknown,Visakhapatnam,Furniture,Chair,01-05-2026,4,14000,Debit Card,Delivered
+Ord1106,Sanjay,Vijayawada,Furniture,Bookshelf,25-06-2026,3,15000,Credit Card,Delivered
+Ord1107,Priya,Kolkata,Groceries,Coffee,27-02-2026,4,1800,Credit Card,Delivered
+Ord1108,Sneha,Bengaluru,Furniture,Chair,02-06-2026,1,3500,Net Banking,Delivered
+Ord1109,Divya,Mumbai,Books,Novel,11-03-2026,4,2000,Net Banking,Cancelled
+Ord1110,Aisha,Guntur,Books,Comics,21-04-2026,1,300,Debit Card,Cancelled
+Ord1111,Kavya,Visakhapatnam,Clothing,T-Shirt,31-05-2026,1,900,Upi,Delivered
+Ord1112,Neha,Kolkata,Groceries,Rice,16-06-2026,2,1400,Cash,Delivered
+Ord1113,Rahul,Delhi,Furniture,Table,31-03-2026,4,24000,Cash,Delivered
+Ord1114,Aditya,Mumbai,Clothing,T-Shirt,27-06-2026,2,1800,Cash,Delivered
+Ord1115,Rahul,Pune,Books,Novel,06-03-2026,4,2000,Debit Card,Delivered
+Ord1116,Sanjay,Mumbai,Books,Novel,14-01-2026,5,2500,Unknown,Cancelled
+Ord1117,Ananya,Chennai,Clothing,Shoes,10-03-2026,4,10000,Net Banking,Delivered
+Ord1118,Priya,Guntur,Clothing,Shoes,11-06-2026,4,10000,Net Banking,Delivered
+Ord1119,Aarav,Kolkata,Furniture,Bookshelf,15-04-2026,5,25000,Upi,Delivered
+Ord1120,Vikram,Delhi,Electronics,Mouse,16-03-2026,1,700,Net Banking,Delivered
+Ord1121,Kavya,Delhi,Books,Comics,22-05-2026,4,1200,Credit Card,Pending
+Ord1122,Rohan,Mumbai,Furniture,Desk,29-03-2026,1,7000,Net Banking,Delivered
+Ord1123,Nikhil,Visakhapatnam,Electronics,Keyboard,18-06-2026,3,3600,Cash,Delivered
+Ord1124,Aditya,Unknown,Books,Comics,20-05-2026,3,900,Cash,Pending
+Ord1125,Unknown,Mumbai,Clothing,Jeans,01-03-2026,2,3600,Cash,Delivered
+Ord1126,Kiran,Hyderabad,Clothing,Shoes,07-05-2026,4,10000,Upi,Delivered
+Ord1127,Sanjay,Vijayawada,Groceries,Biscuits,15-05-2026,1,120,Cash,Delivered
+Ord1128,Rahul,Delhi,Furniture,Table,09-03-2026,2,12000,Debit Card,Cancelled
+Ord1129,Ishita,Mumbai,Books,Novel,23-03-2026,3,1500,Cash,Cancelled
+Ord1130,Divya,Chennai,Electronics,Laptop,24-01-2026,2,110000,Cash,Delivered
+Ord1131,Divya,Guntur,Electronics,Mouse,12-01-2026,2,1400,Debit Card,Delivered
+Ord1132,Pooja,Hyderabad,Clothing,Jacket,04-03-2026,3,9600,Net Banking,Pending
+Ord1133,Sneha,Vijayawada,Groceries,Coffee,06-06-2026,2,900,Cash,Cancelled
+Ord1134,Vikram,Chennai,Furniture,Table,29-04-2026,5,30000,Debit Card,Pending
+Ord1135,Divya,Kolkata,Clothing,T-Shirt,10-02-2026,4,3600,Upi,Pending
+Ord1136,Rohan,Delhi,Clothing,Jacket,19-03-2026,4,12800,Credit Card,Pending
+Ord1137,Kiran,Visakhapatnam,Books,Novel,02-04-2026,2,1000,Net Banking,Delivered
+Ord1138,Rohan,Guntur,Clothing,T-Shirt,25-05-2026,4,3600,Upi,Cancelled
+Ord1139,Aisha,Pune,Books,Notebook,26-02-2026,2,300,Credit Card,Cancelled
+Ord1140,Ananya,Bengaluru,Clothing,Jeans,23-04-2026,1,1800,Upi,Cancelled
+Ord1141,Divya,Pune,Clothing,Jeans,17-04-2026,1,1800,Credit Card,Delivered
+Ord1142,Varun,Bengaluru,Furniture,Bookshelf,12-02-2026,5,25000,Debit Card,Pending
+Ord1143,Sanjay,Vijayawada,Clothing,Jacket,06-02-2026,1,3200,Credit Card,Pending
+Ord1144,Kiran,Guntur,Groceries,Biscuits,09-03-2026,1,120,Net Banking,Delivered
+Ord1145,Nikhil,Mumbai,Books,Notebook,13-06-2026,3,450,Debit Card,Delivered
+Ord1146,Aisha,Kolkata,Furniture,Table,25-03-2026,1,6000,Net Banking,Delivered
+Ord1147,Pooja,Vijayawada,Electronics,Mouse,05-02-2026,3,2100,Upi,Delivered
+Ord1148,Priya,Chennai,Clothing,Shoes,18-05-2026,1,2500,Credit Card,Pending
+Ord1149,Pooja,Visakhapatnam,Books,Notebook,09-02-2026,5,750,Cash,Delivered
+Ord1150,Ananya,Pune,Books,Comics,25-02-2026,3,900,Cash,Pending
+Ord1151,Meera,Kolkata,Furniture,Bookshelf,15-06-2026,1,5000,Debit Card,Delivered
+Ord1152,Priya,Delhi,Books,Notebook,24-01-2026,2,300,Credit Card,Cancelled
+Ord1153,Kavya,Hyderabad,Electronics,Laptop,25-05-2026,3,165000,Credit Card,Delivered
+Ord1154,Arjun,Chennai,Groceries,Coffee,26-03-2026,5,2250,Credit Card,Cancelled
+Ord1155,Vikram,Kolkata,Electronics,Keyboard,06-03-2026,2,2400,Credit Card,Delivered
+Ord1156,Unknown,Chennai,Electronics,Headphones,31-05-2026,1,2500,Debit Card,Delivered
+Ord1157,Vikram,Mumbai,Furniture,Bookshelf,15-05-2026,1,5000,Upi,Delivered
+Ord1158,Varun,Visakhapatnam,Books,Comics,28-01-2026,3,900,Cash,Cancelled
+Ord1159,Divya,Delhi,Furniture,Chair,14-06-2026,5,17500,Upi,Delivered
+Ord1160,Priya,Delhi,Books,Comics,24-04-2026,4,1200,Upi,Delivered
+Ord1161,Vikram,Bengaluru,Clothing,Jeans,09-06-2026,1,1800,Net Banking,Cancelled
+Ord1162,Varun,Bengaluru,Clothing,Shoes,27-04-2026,5,12500,Net Banking,Cancelled
+Ord1163,Ishita,Chennai,Books,Novel,21-04-2026,1,500,Cash,Delivered
+Ord1164,Kiran,Mumbai,Books,Notebook,25-01-2026,4,600,Debit Card,Pending
+Ord1165,Vikram,Delhi,Clothing,Jacket,18-01-2026,3,9600,Upi,Delivered
+Ord1166,Meera,Hyderabad,Electronics,Mouse,23-05-2026,1,700,Upi,Cancelled
+Ord1167,Pooja,Pune,Groceries,Biscuits,20-06-2026,1,120,Cash,Delivered
+Ord1168,Priya,Visakhapatnam,Clothing,Jacket,10-05-2026,3,9600,Credit Card,Delivered
+Ord1169,Meera,Kolkata,Books,Textbook,05-04-2026,1,900,Upi,Delivered
+Ord1170,Ishita,Visakhapatnam,Groceries,Coffee,07-06-2026,4,1800,Net Banking,Delivered
+Ord1171,Sneha,Bengaluru,Groceries,Biscuits,29-06-2026,1,120,Debit Card,Delivered
+Ord1172,Vikram,Visakhapatnam,Clothing,T-Shirt,18-06-2026,2,1800,Cash,Delivered
+Ord1173,Varun,Chennai,Furniture,Chair,07-04-2026,1,3500,Cash,Pending
+Ord1174,Divya,Pune,Clothing,Jeans,26-05-2026,3,5400,Net Banking,Delivered
+Ord1175,Aisha,Guntur,Electronics,Headphones,22-06-2026,2,5000,Upi,Delivered
+Ord1176,Aisha,Delhi,Books,Comics,17-04-2026,4,1200,Debit Card,Delivered
+Ord1177,Pooja,Vijayawada,Groceries,Rice,14-03-2026,3,2100,Net Banking,Pending
+Ord1178,Kavya,Mumbai,Groceries,Biscuits,03-06-2026,1,120,Upi,Delivered
+Ord1179,Vikram,Bengaluru,Furniture,Bookshelf,16-03-2026,2,10000,Debit Card,Delivered
+Ord1180,Sneha,Hyderabad,Electronics,Mouse,08-04-2026,4,2800,Net Banking,Delivered
+Ord1181,Kiran,Guntur,Groceries,Biscuits,22-04-2026,1,120,Upi,Pending
+Ord1182,Pooja,Visakhapatnam,Electronics,Keyboard,14-04-2026,5,6000,Cash,Delivered
+Ord1183,Aditya,Hyderabad,Electronics,Mouse,08-06-2026,1,700,Cash,Delivered
+Ord1184,Kavya,Mumbai,Electronics,Mouse,31-05-2026,1,700,Cash,Cancelled
+Ord1185,Aditya,Chennai,Electronics,Mouse,27-03-2026,3,2100,Credit Card,Delivered
+Ord1186,Varun,Chennai,Groceries,Rice,31-03-2026,5,3500,Debit Card,Delivered
+Ord1187,Rohan,Chennai,Furniture,Chair,14-02-2026,2,7000,Net Banking,Delivered
+Ord1188,Sanjay,Visakhapatnam,Electronics,Headphones,29-05-2026,4,10000,Cash,Cancelled
+Ord1189,Vikram,Delhi,Groceries,Biscuits,18-01-2026,3,360,Cash,Pending
+Ord1190,Ananya,Pune,Clothing,Jacket,10-05-2026,5,16000,Upi,Delivered
+Ord1191,Ananya,Pune,Books,Comics,15-03-2026,1,300,Upi,Delivered
+Ord1192,Nikhil,Kolkata,Groceries,Cooking Oil,11-01-2026,4,720,Cash,Cancelled
+Ord1193,Neha,Kolkata,Furniture,Bookshelf,08-02-2026,5,25000,Upi,Pending
+Ord1194,Varun,Hyderabad,Electronics,Keyboard,11-01-2026,1,1200,Credit Card,Pending
+Ord1195,Meera,Unknown,Books,Textbook,10-04-2026,3,2700,Cash,Delivered
+Ord1196,Rahul,Pune,Groceries,Rice,25-01-2026,3,2100,Net Banking,Pending
+Ord1197,Vikram,Pune,Clothing,Jacket,21-01-2026,5,16000,Net Banking,Delivered
+Ord1198,Vikram,Visakhapatnam,Clothing,Jacket,22-01-2026,4,12800,Debit Card,Cancelled
+Ord1199,Varun,Vijayawada,Books,Notebook,15-06-2026,2,300,Cash,Cancelled
+Ord1200,Divya,Hyderabad,Clothing,T-Shirt,24-02-2026,3,2700,Debit Card,Pending
+Ord1201,Vikram,Vijayawada,Furniture,Desk,17-03-2026,2,14000,Upi,Cancelled
+Ord1202,Aisha,Hyderabad,Groceries,Rice,02-06-2026,3,2100,Cash,Delivered
+Ord1203,Sneha,Delhi,Furniture,Desk,12-01-2026,5,35000,Cash,Delivered
+Ord1204,Divya,Delhi,Furniture,Table,01-03-2026,5,30000,Net Banking,Delivered
+Ord1205,Meera,Visakhapatnam,Clothing,Shoes,23-04-2026,2,5000,Cash,Delivered
+Ord1206,Arjun,Visakhapatnam,Books,Comics,05-02-2026,2,600,Debit Card,Delivered
+Ord1207,Priya,Kolkata,Books,Notebook,01-02-2026,5,750,Debit Card,Delivered
+Ord1208,Varun,Hyderabad,Furniture,Bookshelf,22-04-2026,4,20000,Upi,Delivered
+Ord1209,Pooja,Guntur,Books,Notebook,12-04-2026,1,150,Net Banking,Delivered
+Ord1210,Meera,Chennai,Furniture,Table,08-01-2026,1,6000,Debit Card,Delivered
+Ord1211,Ananya,Bengaluru,Clothing,Jeans,01-05-2026,2,3600,Credit Card,Pending
+Ord1212,Aarav,Bengaluru,Books,Novel,25-02-2026,1,500,Credit Card,Cancelled
+Ord1213,Divya,Chennai,Groceries,Cooking Oil,19-03-2026,1,3500,Upi,Delivered
+Ord1214,Sanjay,Vijayawada,Furniture,Table,29-01-2026,5,30000,Cash,Cancelled
+Ord1215,Nikhil,Chennai,Groceries,Rice,06-02-2026,5,3500,Debit Card,Pending
+Ord1216,Nikhil,Mumbai,Electronics,Keyboard,17-02-2026,2,2400,Upi,Cancelled
+Ord1217,Ishita,Kolkata,Clothing,T-Shirt,10-05-2026,5,4500,Net Banking,Delivered
+Ord1218,Kiran,Pune,Books,Comics,06-03-2026,1,300,Upi,Delivered
+Ord1219,Priya,Visakhapatnam,Electronics,Keyboard,27-03-2026,2,2400,Credit Card,Delivered
+Ord1220,Sanjay,Delhi,Clothing,Jacket,11-06-2026,2,6400,Credit Card,Delivered
+Ord1221,Divya,Chennai,Electronics,Mouse,12-01-2026,1,700,Credit Card,Delivered
+Ord1222,Kiran,Kolkata,Clothing,Jacket,02-05-2026,5,16000,Debit Card,Delivered
+Ord1223,Ananya,Pune,Furniture,Bookshelf,11-03-2026,3,15000,Upi,Delivered
+Ord1224,Kiran,Pune,Books,Comics,17-02-2026,4,1200,Cash,Pending
+Ord1225,Pooja,Vijayawada,Clothing,Jacket,21-04-2026,1,3200,Net Banking,Delivered
+Ord1226,Priya,Vijayawada,Groceries,Biscuits,25-03-2026,3,360,Debit Card,Delivered
+Ord1227,Sanjay,Pune,Books,Comics,25-04-2026,2,600,Upi,Delivered
+Ord1228,Ananya,Vijayawada,Groceries,Cooking Oil,21-06-2026,3,540,Cash,Delivered
+Ord1229,Vikram,Visakhapatnam,Groceries,Coffee,23-06-2026,1,450,Cash,Delivered
+Ord1230,Meera,Pune,Furniture,Chair,09-04-2026,2,7000,Net Banking,Delivered
+Ord1231,Meera,Pune,Groceries,Coffee,24-04-2026,4,1800,Upi,Cancelled
+Ord1232,Aditya,Bengaluru,Furniture,Bookshelf,05-03-2026,4,20000,Upi,Delivered
+Ord1233,Kiran,Kolkata,Furniture,Table,31-01-2026,5,30000,Debit Card,Delivered
+Ord1234,Divya,Delhi,Books,Textbook,21-02-2026,5,4500,Upi,Delivered
+Ord1235,Sanjay,Vijayawada,Electronics,Mouse,24-06-2026,2,1400,Debit Card,Delivered
+Ord1236,Sneha,Hyderabad,Electronics,Keyboard,03-04-2026,3,3600,Net Banking,Delivered
+Ord1237,Kavya,Delhi,Electronics,Headphones,07-01-2026,2,5000,Debit Card,Cancelled
+Ord1238,Ishita,Hyderabad,Groceries,Biscuits,06-06-2026,4,480,Upi,Delivered
+Ord1239,Varun,Mumbai,Clothing,Shoes,15-04-2026,4,10000,Net Banking,Delivered
+Ord1240,Sanjay,Delhi,Furniture,Bookshelf,24-06-2026,1,5000,Net Banking,Delivered
+Ord1241,Pooja,Kolkata,Furniture,Desk,15-01-2026,2,14000,Upi,Cancelled
+Ord1242,Sneha,Pune,Furniture,Bookshelf,27-02-2026,2,10000,Debit Card,Cancelled
+Ord1243,Arjun,Kolkata,Clothing,T-Shirt,12-03-2026,3,2700,Credit Card,Delivered
+Ord1244,Sneha,Visakhapatnam,Groceries,Rice,29-05-2026,5,3500,Credit Card,Delivered
+Ord1245,Ananya,Guntur,Groceries,Biscuits,21-01-2026,5,600,Upi,Cancelled
+Ord1246,Pooja,Visakhapatnam,Clothing,Jeans,13-06-2026,5,9000,Upi,Pending
+Ord1247,Neha,Chennai,Groceries,Biscuits,25-06-2026,3,360,Cash,Delivered
+Ord1248,Sneha,Delhi,Books,Novel,17-04-2026,1,500,Cash,Pending
+Ord1249,Vikram,Pune,Furniture,Bookshelf,23-03-2026,5,25000,Debit Card,Pending
+Ord1250,Ishita,Vijayawada,Furniture,Bookshelf,23-03-2026,5,25000,Credit Card,Pending
+Ord1251,Kavya,Hyderabad,Electronics,Keyboard,25-01-2026,4,4800,Upi,Delivered
+Ord1252,Sneha,Pune,Books,Comics,28-05-2026,2,600,Debit Card,Delivered
+Ord1253,Sanjay,Delhi,Furniture,Table,20-03-2026,5,30000,Cash,Delivered
+Ord1254,Sanjay,Chennai,Electronics,Mouse,25-02-2026,5,3500,Net Banking,Delivered
+Ord1255,Neha,Visakhapatnam,Electronics,Laptop,17-06-2026,3,165000,Cash,Delivered
+Ord1256,Pooja,Hyderabad,Groceries,Rice,09-03-2026,1,700,Debit Card,Pending
+Ord1257,Ananya,Visakhapatnam,Clothing,T-Shirt,24-05-2026,4,3600,Credit Card,Delivered
+Ord1258,Kiran,Kolkata,Groceries,Biscuits,26-04-2026,1,120,Unknown,Delivered
+Ord1259,Priya,Mumbai,Groceries,Rice,06-04-2026,2,1400,Debit Card,Cancelled
+Ord1260,Aisha,Kolkata,Clothing,Jeans,13-04-2026,2,3600,Net Banking,Delivered
+Ord1261,Aditya,Delhi,Electronics,Laptop,13-05-2026,2,110000,Cash,Delivered
+Ord1262,Aisha,Pune,Groceries,Coffee,11-02-2026,3,1350,Cash,Cancelled
+Ord1263,Varun,Kolkata,Clothing,Jacket,06-05-2026,5,16000,Net Banking,Delivered
+Ord1264,Aditya,Vijayawada,Books,Novel,17-04-2026,3,1500,Net Banking,Delivered
+Ord1265,Nikhil,Visakhapatnam,Electronics,Mouse,28-02-2026,3,2100,Upi,Cancelled
+Ord1266,Aisha,Mumbai,Books,Textbook,07-02-2026,5,4500,Credit Card,Delivered
+Ord1267,Aarav,Delhi,Groceries,Rice,22-03-2026,2,1400,Cash,Delivered
+Ord1268,Varun,Visakhapatnam,Books,Textbook,01-05-2026,4,3600,Unknown,Delivered
+Ord1269,Aditya,Delhi,Groceries,Coffee,15-05-2026,5,2250,Cash,Delivered
+Ord1270,Aditya,Kolkata,Furniture,Table,01-04-2026,5,30000,Debit Card,Cancelled
+Ord1271,Rohan,Kolkata,Books,Textbook,18-03-2026,2,1800,Credit Card,Delivered
+Ord1272,Aditya,Delhi,Clothing,Jeans,31-03-2026,4,7200,Net Banking,Delivered
+Ord1273,Ishita,Mumbai,Clothing,T-Shirt,12-04-2026,5,4500,Debit Card,Delivered
+Ord1274,Rahul,Pune,Clothing,T-Shirt,24-04-2026,3,2700,Debit Card,Pending
+Ord1275,Rohan,Kolkata,Furniture,Desk,28-06-2026,5,35000,Debit Card,Delivered
+Ord1276,Ananya,Kolkata,Electronics,Headphones,27-02-2026,2,5000,Credit Card,Delivered
+Ord1277,Neha,Vijayawada,Electronics,Mouse,24-06-2026,3,2100,Credit Card,Delivered
+Ord1278,Neha,Delhi,Groceries,Coffee,16-06-2026,4,1800,Credit Card,Delivered
+Ord1279,Rahul,Visakhapatnam,Clothing,Jacket,01-03-2026,1,3200,Net Banking,Delivered
+Ord1280,Ananya,Mumbai,Furniture,Table,07-05-2026,2,12000,Credit Card,Delivered
+Ord1281,Nikhil,Visakhapatnam,Electronics,Laptop,28-01-2026,3,165000,Debit Card,Delivered
+Ord1282,Varun,Delhi,Books,Comics,11-03-2026,2,600,Credit Card,Delivered
+Ord1283,Rohan,Hyderabad,Clothing,Jeans,04-01-2026,4,7200,Debit Card,Delivered
+Ord1284,Aisha,Mumbai,Groceries,Coffee,20-04-2026,2,900,Net Banking,Delivered
+Ord1285,Sneha,Hyderabad,Electronics,Mouse,03-05-2026,1,700,Debit Card,Delivered
+Ord1286,Kavya,Delhi,Electronics,Keyboard,10-03-2026,4,4800,Debit Card,Delivered
+Ord1287,Meera,Chennai,Groceries,Rice,16-01-2026,3,2100,Upi,Pending
+Ord1288,Varun,Bengaluru,Clothing,Jeans,26-06-2026,4,7200,Upi,Delivered
+Ord1289,Vikram,Delhi,Clothing,Jeans,09-02-2026,2,3600,Cash,Cancelled
+Ord1290,Neha,Kolkata,Clothing,Shoes,20-06-2026,5,12500,Credit Card,Delivered
+Ord1291,Sanjay,Kolkata,Groceries,Rice,30-06-2026,5,3500,Debit Card,Delivered
+Ord1292,Ishita,Kolkata,Groceries,Rice,21-02-2026,1,700,Net Banking,Cancelled
+Ord1293,Varun,Delhi,Furniture,Desk,30-01-2026,3,21000,Credit Card,Cancelled
+Ord1294,Sanjay,Guntur,Books,Novel,27-04-2026,5,2500,Credit Card,Cancelled
+Ord1295,Ananya,Kolkata,Books,Comics,29-04-2026,5,1500,Debit Card,Delivered
+Ord1296,Arjun,Visakhapatnam,Books,Notebook,19-01-2026,1,150,Upi,Pending
+Ord1297,Ananya,Vijayawada,Clothing,T-Shirt,01-05-2026,5,4500,Upi,Delivered
+Ord1298,Pooja,Pune,Books,Textbook,08-04-2026,2,1800,Cash,Pending
+Ord1299,Vikram,Pune,Books,Novel,31-01-2026,5,3500,Credit Card,Cancelled
+Ord1300,Aarav,Guntur,Books,Textbook,18-03-2026,2,1800,Cash,Cancelled
+Ord1301,Kavya,Delhi,Books,Comics,30-03-2026,2,600,Credit Card,Delivered
+Ord1302,Pooja,Visakhapatnam,Furniture,Chair,05-01-2026,1,3500,Credit Card,Delivered
+Ord1303,Ananya,Delhi,Electronics,Laptop,03-06-2026,5,275000,Upi,Delivered
+Ord1304,Kavya,Kolkata,Electronics,Mouse,25-02-2026,4,2800,Upi,Delivered
+Ord1305,Nikhil,Pune,Groceries,Biscuits,28-05-2026,2,240,Net Banking,Delivered
+Ord1306,Varun,Chennai,Furniture,Bookshelf,16-04-2026,2,10000,Debit Card,Delivered
+Ord1307,Ishita,Unknown,Electronics,Headphones,13-01-2026,4,10000,Debit Card,Pending
+Ord1308,Pooja,Hyderabad,Groceries,Biscuits,18-03-2026,4,480,Cash,Delivered
+Ord1309,Kavya,Bengaluru,Groceries,Cooking Oil,06-02-2026,2,360,Cash,Delivered
+Ord1310,Ishita,Kolkata,Groceries,Cooking Oil,04-02-2026,4,720,Cash,Delivered
+Ord1311,Rahul,Delhi,Clothing,Jeans,05-04-2026,3,5400,Upi,Cancelled
+Ord1312,Kiran,Visakhapatnam,Furniture,Chair,04-06-2026,3,10500,Upi,Delivered
+Ord1313,Arjun,Pune,Furniture,Desk,19-03-2026,4,28000,Upi,Delivered
+Ord1314,Kavya,Visakhapatnam,Furniture,Chair,30-06-2026,4,14000,Credit Card,Pending
+Ord1315,Kiran,Delhi,Furniture,Bookshelf,17-05-2026,3,15000,Debit Card,Delivered
+Ord1316,Neha,Delhi,Clothing,Jacket,26-01-2026,5,16000,Cash,Delivered
+Ord1317,Pooja,Guntur,Furniture,Bookshelf,25-05-2026,3,15000,Credit Card,Delivered
+Ord1318,Nikhil,Visakhapatnam,Electronics,Keyboard,17-04-2026,5,6000,Debit Card,Delivered
+Ord1319,Kiran,Visakhapatnam,Furniture,Bookshelf,04-03-2026,2,10000,Cash,Cancelled
+Ord1320,Neha,Delhi,Clothing,Jacket,13-02-2026,4,12800,Debit Card,Delivered
+Ord1321,Ishita,Guntur,Furniture,Table,15-05-2026,2,12000,Upi,Delivered
+Ord1322,Vikram,Chennai,Electronics,Laptop,18-01-2026,4,220000,Credit Card,Delivered
+Ord1323,Ananya,Visakhapatnam,Furniture,Table,13-06-2026,3,18000,Net Banking,Pending
+Ord1324,Ishita,Kolkata,Books,Novel,16-04-2026,1,500,Upi,Delivered
+Ord1325,Divya,Guntur,Groceries,Biscuits,09-05-2026,5,3500,Cash,Delivered
+Ord1326,Vikram,Chennai,Electronics,Laptop,19-02-2026,5,275000,Net Banking,Cancelled
+Ord1327,Kiran,Vijayawada,Clothing,Jacket,06-04-2026,3,9600,Cash,Pending
+Ord1328,Divya,Vijayawada,Groceries,Coffee,17-06-2026,2,900,Upi,Delivered
+Ord1329,Ishita,Delhi,Books,Comics,15-01-2026,4,1200,Upi,Delivered
+Ord1330,Aditya,Visakhapatnam,Electronics,Mouse,25-01-2026,4,2800,Net Banking,Delivered
+Ord1331,Neha,Bengaluru,Furniture,Desk,12-01-2026,5,35000,Upi,Delivered
+Ord1332,Aditya,Guntur,Groceries,Rice,23-02-2026,2,1400,Net Banking,Delivered
+Ord1333,Sneha,Visakhapatnam,Books,Novel,03-03-2026,3,1500,Net Banking,Pending
+Ord1334,Vikram,Vijayawada,Groceries,Biscuits,09-05-2026,4,480,Debit Card,Delivered
+Ord1335,Rahul,Pune,Electronics,Mouse,04-06-2026,2,1400,Net Banking,Cancelled
+Ord1336,Rohan,Delhi,Books,Notebook,06-05-2026,1,150,Credit Card,Delivered
+Ord1337,Sneha,Visakhapatnam,Groceries,Cooking Oil,19-06-2026,4,720,Cash,Delivered
+Ord1338,Rahul,Vijayawada,Groceries,Biscuits,10-03-2026,2,240,Credit Card,Pending
+Ord1339,Meera,Vijayawada,Furniture,Table,24-01-2026,3,18000,Upi,Delivered
+Ord1340,Priya,Hyderabad,Books,Notebook,23-01-2026,3,450,Credit Card,Pending
+Ord1341,Aarav,Vijayawada,Books,Comics,01-04-2026,1,300,Net Banking,Delivered
+Ord1342,Aarav,Bengaluru,Groceries,Biscuits,16-04-2026,4,480,Cash,Delivered
+Ord1343,Varun,Hyderabad,Groceries,Coffee,25-06-2026,5,2250,Cash,Delivered
+Ord1344,Rohan,Delhi,Furniture,Bookshelf,07-02-2026,3,15000,Upi,Delivered
+Ord1345,Divya,Delhi,Books,Notebook,20-01-2026,4,600,Debit Card,Delivered
+Ord1346,Aisha,Chennai,Furniture,Table,28-04-2026,5,30000,Upi,Delivered
+Ord1347,Aditya,Visakhapatnam,Clothing,T-Shirt,08-04-2026,4,3600,Debit Card,Pending
+Ord1348,Vikram,Bengaluru,Clothing,Shoes,24-03-2026,5,12500,Net Banking,Delivered
+Ord1349,Kiran,Pune,Books,Notebook,16-03-2026,2,300,Cash,Cancelled
+Ord1350,Rohan,Mumbai,Furniture,Bookshelf,04-04-2026,4,20000,Upi,Cancelled
+Ord1351,Aarav,Delhi,Furniture,Desk,23-02-2026,5,35000,Cash,Delivered
+Ord1352,Vikram,Bengaluru,Electronics,Mouse,03-03-2026,4,2800,Debit Card,Delivered
+Ord1353,Sanjay,Visakhapatnam,Books,Comics,03-05-2026,1,300,Net Banking,Pending
+Ord1354,Ananya,Pune,Groceries,Cooking Oil,29-06-2026,5,900,Net Banking,Cancelled
+Ord1355,Meera,Hyderabad,Electronics,Laptop,15-06-2026,2,110000,Net Banking,Delivered
+Ord1356,Pooja,Vijayawada,Groceries,Cooking Oil,03-01-2026,3,540,Upi,Delivered
+Ord1357,Meera,Mumbai,Furniture,Desk,29-04-2026,4,28000,Net Banking,Cancelled
+Ord1358,Neha,Vijayawada,Furniture,Bookshelf,17-03-2026,1,5000,Cash,Delivered
+Ord1359,Divya,Pune,Electronics,Headphones,27-04-2026,3,7500,Credit Card,Cancelled
+Ord1360,Priya,Delhi,Books,Notebook,28-06-2026,4,600,Cash,Delivered
+Ord1361,Priya,Guntur,Electronics,Keyboard,29-03-2026,1,1200,Upi,Delivered
+Ord1362,Unknown,Pune,Furniture,Desk,24-05-2026,5,35000,Cash,Pending
+Ord1363,Sneha,Mumbai,Furniture,Table,12-04-2026,2,12000,Upi,Cancelled
+Ord1364,Pooja,Mumbai,Furniture,Table,02-01-2026,5,30000,Credit Card,Delivered
+Ord1365,Priya,Kolkata,Clothing,T-Shirt,17-02-2026,5,4500,Debit Card,Delivered
+Ord1366,Rohan,Delhi,Furniture,Table,16-05-2026,1,6000,Debit Card,Cancelled
+Ord1367,Priya,Pune,Books,Comics,01-04-2026,5,1500,Cash,Cancelled
+Ord1368,Nikhil,Vijayawada,Furniture,Bookshelf,22-06-2026,5,25000,Credit Card,Delivered
+Ord1369,Priya,Hyderabad,Electronics,Headphones,06-04-2026,3,7500,Credit Card,Cancelled
+Ord1370,Vikram,Visakhapatnam,Books,Comics,09-04-2026,5,1500,Cash,Delivered
+Ord1371,Sneha,Delhi,Books,Textbook,15-03-2026,5,4500,Credit Card,Delivered
+Ord1372,Ananya,Pune,Clothing,Shoes,03-01-2026,5,12500,Cash,Delivered
+Ord1373,Varun,Delhi,Furniture,Table,15-04-2026,5,30000,Cash,Pending
+Ord1374,Rahul,Visakhapatnam,Books,Comics,08-01-2026,2,600,Credit Card,Delivered
+Ord1375,Unknown,Bengaluru,Electronics,Keyboard,13-02-2026,2,2400,Cash,Cancelled
+Ord1376,Priya,Bengaluru,Books,Novel,20-05-2026,5,2500,Debit Card,Cancelled
+Ord1377,Arjun,Mumbai,Electronics,Mouse,27-01-2026,5,3500,Credit Card,Delivered
+Ord1378,Unknown,Vijayawada,Electronics,Mouse,23-04-2026,3,2100,Upi,Delivered
+Ord1379,Pooja,Hyderabad,Furniture,Bookshelf,07-06-2026,5,25000,Credit Card,Delivered
+Ord1380,Meera,Kolkata,Furniture,Chair,13-03-2026,5,17500,Net Banking,Cancelled
+Ord1381,Divya,Visakhapatnam,Furniture,Bookshelf,10-03-2026,3,15000,Net Banking,Delivered
+Ord1382,Rohan,Hyderabad,Furniture,Table,29-06-2026,1,6000,Credit Card,Delivered
+Ord1383,Kiran,Delhi,Furniture,Bookshelf,06-02-2026,2,10000,Net Banking,Delivered
+Ord1384,Rahul,Vijayawada,Books,Comics,14-04-2026,4,1200,Net Banking,Delivered
+Ord1385,Aditya,Visakhapatnam,Clothing,Shoes,01-01-2026,4,10000,Upi,Pending
+Ord1386,Kiran,Chennai,Clothing,T-Shirt,20-04-2026,5,4500,Credit Card,Pending
+Ord1387,Aditya,Kolkata,Clothing,Jacket,28-05-2026,3,9600,Credit Card,Cancelled
+Ord1388,Ananya,Vijayawada,Books,Notebook,10-06-2026,1,150,Cash,Delivered
+Ord1389,Sanjay,Guntur,Electronics,Headphones,20-04-2026,4,10000,Credit Card,Delivered
+Ord1390,Rahul,Pune,Clothing,Jeans,06-03-2026,3,5400,Upi,Delivered
+Ord1391,Divya,Chennai,Furniture,Chair,20-04-2026,4,14000,Upi,Delivered
+Ord1392,Rahul,Hyderabad,Electronics,Headphones,01-06-2026,4,10000,Credit Card,Cancelled
+Ord1393,Aditya,Vijayawada,Books,Novel,19-04-2026,1,500,Credit Card,Pending
+Ord1394,Rahul,Vijayawada,Electronics,Headphones,27-01-2026,4,10000,Debit Card,Delivered
+Ord1395,Unknown,Unknown,Clothing,Jeans,18-01-2026,4,7200,Net Banking,Cancelled
+Ord1396,Meera,Chennai,Electronics,Headphones,10-06-2026,4,10000,Credit Card,Pending
+Ord1397,Rahul,Vijayawada,Groceries,Cooking Oil,05-02-2026,2,360,Upi,Cancelled
+Ord1398,Aditya,Hyderabad,Books,Notebook,05-03-2026,4,600,Debit Card,Delivered
+Ord1399,Divya,Chennai,Furniture,Bookshelf,13-05-2026,1,5000,Net Banking,Cancelled
+Ord1400,Ananya,Chennai,Furniture,Table,07-05-2026,3,18000,Cash,Delivered
+Ord1401,Rahul,Kolkata,Furniture,Table,04-01-2026,5,30000,Debit Card,Delivered
+Ord1402,Pooja,Pune,Furniture,Table,20-05-2026,5,30000,Credit Card,Pending
+Ord1403,Rahul,Guntur,Electronics,Laptop,09-03-2026,5,275000,Credit Card,Delivered
+Ord1404,Divya,Kolkata,Electronics,Mouse,17-04-2026,5,3500,Cash,Pending
+Ord1405,Rahul,Bengaluru,Electronics,Headphones,21-01-2026,3,7500,Net Banking,Delivered
+Ord1406,Nikhil,Vijayawada,Furniture,Bookshelf,21-03-2026,4,20000,Cash,Delivered
+Ord1407,Pooja,Vijayawada,Electronics,Headphones,27-04-2026,1,2500,Net Banking,Cancelled
+Ord1408,Priya,Guntur,Electronics,Keyboard,05-02-2026,2,2400,Upi,Delivered
+Ord1409,Varun,Bengaluru,Books,Notebook,12-02-2026,5,750,Debit Card,Delivered
+Ord1410,Aditya,Mumbai,Clothing,T-Shirt,11-03-2026,1,900,Net Banking,Delivered
+Ord1411,Sanjay,Kolkata,Clothing,T-Shirt,03-04-2026,4,3600,Upi,Pending
+Ord1412,Sneha,Bengaluru,Groceries,Coffee,27-01-2026,3,1350,Net Banking,Delivered
+Ord1413,Aarav,Chennai,Furniture,Chair,12-01-2026,1,3500,Cash,Delivered
+Ord1414,Ananya,Kolkata,Books,Textbook,17-06-2026,2,1800,Cash,Delivered
+Ord1415,Aditya,Bengaluru,Clothing,Jeans,20-01-2026,4,7200,Net Banking,Delivered
+Ord1416,Kavya,Kolkata,Electronics,Laptop,12-01-2026,2,110000,Cash,Delivered
+Ord1417,Aditya,Vijayawada,Books,Notebook,22-05-2026,3,450,Cash,Delivered
+Ord1418,Nikhil,Bengaluru,Clothing,Jeans,09-06-2026,3,5400,Credit Card,Pending
+Ord1419,Ishita,Chennai,Clothing,Shoes,08-02-2026,2,5000,Upi,Pending
+Ord1420,Meera,Guntur,Electronics,Headphones,27-03-2026,5,12500,Upi,Pending
+Ord1421,Varun,Chennai,Clothing,T-Shirt,18-04-2026,2,1800,Cash,Delivered
+Ord1422,Ananya,Chennai,Furniture,Bookshelf,14-05-2026,1,5000,Unknown,Delivered
+Ord1423,Priya,Kolkata,Books,Novel,04-02-2026,5,2500,Cash,Delivered
+Ord1424,Vikram,Chennai,Groceries,Rice,16-03-2026,4,2800,Debit Card,Delivered
+Ord1425,Sanjay,Bengaluru,Books,Notebook,01-03-2026,3,450,Upi,Delivered
+Ord1426,Priya,Hyderabad,Furniture,Chair,26-04-2026,2,7000,Cash,Delivered
+Ord1427,Meera,Chennai,Books,Novel,26-04-2026,5,2500,Debit Card,Pending
+Ord1428,Sneha,Bengaluru,Clothing,T-Shirt,30-06-2026,1,900,Net Banking,Delivered
+Ord1429,Rahul,Chennai,Furniture,Bookshelf,02-04-2026,2,10000,Cash,Cancelled
+Ord1430,Sneha,Guntur,Electronics,Keyboard,14-04-2026,3,3600,Cash,Cancelled
+Ord1431,Sanjay,Unknown,Groceries,Coffee,05-02-2026,1,450,Upi,Delivered
+Ord1432,Arjun,Mumbai,Electronics,Headphones,06-04-2026,2,5000,Upi,Cancelled
+Ord1433,Aarav,Vijayawada,Groceries,Biscuits,20-02-2026,1,120,Cash,Delivered
+Ord1434,Ananya,Delhi,Electronics,Keyboard,13-01-2026,1,1200,Credit Card,Cancelled
+Ord1435,Aarav,Mumbai,Books,Comics,24-06-2026,4,1200,Cash,Delivered
+Ord1436,Rohan,Bengaluru,Clothing,Jeans,25-04-2026,2,3600,Credit Card,Delivered
+Ord1437,Neha,Mumbai,Groceries,Coffee,21-05-2026,3,1350,Cash,Delivered
+Ord1438,Vikram,Mumbai,Electronics,Keyboard,21-02-2026,4,4800,Net Banking,Delivered
+Ord1439,Meera,Delhi,Groceries,Rice,20-05-2026,4,2800,Cash,Delivered
+Ord1440,Rohan,Hyderabad,Groceries,Biscuits,07-01-2026,4,480,Debit Card,Cancelled
+Ord1441,Ananya,Delhi,Furniture,Chair,16-05-2026,3,10500,Debit Card,Cancelled
+Ord1442,Kavya,Chennai,Furniture,Desk,10-03-2026,1,7000,Net Banking,Delivered
+Ord1443,Sneha,Hyderabad,Furniture,Table,02-03-2026,3,3500,Net Banking,Delivered
+Ord1444,Nikhil,Visakhapatnam,Clothing,T-Shirt,06-02-2026,3,2700,Net Banking,Delivered
+Ord1445,Neha,Guntur,Books,Notebook,24-01-2026,2,300,Upi,Delivered
+Ord1446,Varun,Delhi,Groceries,Coffee,01-01-2026,1,450,Debit Card,Cancelled
+Ord1447,Sneha,Pune,Furniture,Desk,16-01-2026,3,21000,Upi,Delivered
+Ord1448,Varun,Pune,Groceries,Coffee,19-01-2026,1,450,Debit Card,Pending
+Ord1449,Divya,Pune,Groceries,Rice,04-02-2026,3,2100,Credit Card,Pending
+Ord1450,Ishita,Unknown,Books,Notebook,02-04-2026,2,300,Credit Card,Cancelled
+Ord1451,Divya,Hyderabad,Furniture,Table,15-02-2026,3,18000,Upi,Cancelled
+Ord1452,Aisha,Pune,Books,Novel,06-06-2026,2,1000,Credit Card,Cancelled
+Ord1453,Aditya,Vijayawada,Electronics,Mouse,02-03-2026,2,1400,Debit Card,Delivered
+Ord1454,Sanjay,Guntur,Furniture,Chair,09-03-2026,3,10500,Credit Card,Delivered
+Ord1455,Priya,Guntur,Electronics,Keyboard,13-01-2026,3,3600,Cash,Pending
+Ord1456,Neha,Mumbai,Books,Textbook,31-03-2026,4,3600,Net Banking,Pending
+Ord1457,Kavya,Hyderabad,Electronics,Mouse,26-04-2026,5,3500,Upi,Delivered
+Ord1458,Rohan,Vijayawada,Clothing,T-Shirt,19-01-2026,3,2700,Debit Card,Delivered
+Ord1459,Ishita,Vijayawada,Books,Textbook,28-03-2026,1,900,Net Banking,Cancelled
+Ord1460,Sneha,Visakhapatnam,Books,Novel,22-04-2026,4,2000,Credit Card,Delivered
+Ord1461,Arjun,Mumbai,Electronics,Keyboard,28-06-2026,2,2400,Net Banking,Cancelled
+Ord1462,Kavya,Vijayawada,Clothing,Jacket,13-01-2026,3,9600,Cash,Cancelled
+Ord1463,Ananya,Pune,Groceries,Cooking Oil,01-01-2026,2,360,Cash,Delivered
+Ord1464,Priya,Guntur,Clothing,Shoes,22-02-2026,2,5000,Credit Card,Delivered
+Ord1465,Divya,Mumbai,Electronics,Mouse,01-05-2026,1,700,Cash,Delivered
+Ord1466,Meera,Mumbai,Electronics,Mouse,05-04-2026,2,1400,Credit Card,Pending
+Ord1467,Sanjay,Bengaluru,Electronics,Keyboard,27-02-2026,4,4800,Debit Card,Cancelled
+Ord1468,Rahul,Pune,Electronics,Headphones,19-05-2026,1,2500,Cash,Cancelled
+Ord1469,Varun,Mumbai,Furniture,Chair,18-05-2026,4,14000,Cash,Cancelled
+Ord1470,Rahul,Mumbai,Furniture,Table,09-01-2026,3,18000,Net Banking,Cancelled
+Ord1471,Sanjay,Hyderabad,Groceries,Coffee,12-02-2026,1,450,Credit Card,Delivered
+Ord1472,Rahul,Mumbai,Furniture,Chair,21-02-2026,4,14000,Unknown,Cancelled
+Ord1473,Rahul,Mumbai,Clothing,Jacket,23-05-2026,1,3200,Cash,Cancelled
+Ord1474,Sanjay,Guntur,Clothing,Jacket,29-06-2026,5,16000,Net Banking,Cancelled
+Ord1475,Pooja,Hyderabad,Groceries,Cooking Oil,07-02-2026,1,180,Net Banking,Cancelled
+Ord1476,Nikhil,Vijayawada,Groceries,Rice,15-03-2026,1,700,Net Banking,Delivered
+Ord1477,Neha,Visakhapatnam,Books,Notebook,05-06-2026,4,600,Cash,Delivered
+Ord1478,Vikram,Visakhapatnam,Furniture,Bookshelf,05-06-2026,4,20000,Cash,Delivered
+Ord1479,Ananya,Delhi,Books,Notebook,10-03-2026,2,300,Debit Card,Delivered
+Ord1480,Rohan,Delhi,Clothing,Jacket,28-06-2026,3,9600,Upi,Delivered
+Ord1481,Aditya,Bengaluru,Furniture,Bookshelf,17-04-2026,4,20000,Net Banking,Delivered
+Ord1482,Pooja,Delhi,Furniture,Table,13-05-2026,2,12000,Debit Card,Delivered
+Ord1483,Divya,Kolkata,Groceries,Coffee,14-04-2026,1,450,Credit Card,Cancelled
+Ord1484,Arjun,Chennai,Groceries,Rice,15-01-2026,2,1400,Credit Card,Delivered
+Ord1485,Arjun,Bengaluru,Books,Novel,05-04-2026,3,1500,Cash,Cancelled
+Ord1486,Kavya,Pune,Books,Novel,06-05-2026,1,500,Net Banking,Pending
+Ord1487,Ishita,Pune,Furniture,Table,30-03-2026,5,30000,Credit Card,Delivered
+Ord1488,Kiran,Guntur,Electronics,Keyboard,11-02-2026,1,1200,Net Banking,Delivered
+Ord1489,Rohan,Mumbai,Furniture,Desk,12-05-2026,2,14000,Upi,Delivered
+Ord1490,Aisha,Guntur,Books,Textbook,27-02-2026,2,1800,Debit Card,Cancelled
+Ord1491,Kiran,Pune,Clothing,Jacket,28-04-2026,4,12800,Debit Card,Delivered
+Ord1492,Aisha,Mumbai,Books,Notebook,30-05-2026,5,750,Upi,Delivered
+Ord1493,Aisha,Visakhapatnam,Groceries,Biscuits,14-03-2026,5,600,Debit Card,Delivered
+Ord1494,Rohan,Pune,Books,Novel,12-03-2026,3,1500,Debit Card,Delivered
+Ord1495,Kavya,Guntur,Furniture,Desk,03-06-2026,5,35000,Cash,Delivered
+Ord1496,Divya,Bengaluru,Furniture,Chair,18-04-2026,4,14000,Cash,Pending
+Ord1497,Kavya,Kolkata,Electronics,Headphones,13-06-2026,3,7500,Cash,Delivered
+Ord1498,Ishita,Hyderabad,Groceries,Biscuits,17-03-2026,2,240,Upi,Pending
+Ord1499,Sneha,Pune,Furniture,Bookshelf,17-06-2026,5,25000,Upi,Delivered
+Ord1500,Pooja,Pune,Clothing,Jeans,06-04-2026,3,5400,Debit Card,Cancelled
